@@ -1,10 +1,12 @@
 # Data-Visualization-and-Storytelling
 Contents:
+
 Dashboard 1: Sales Overview
 
 Dashboard 2: Product Performance
 
 Dashboard 1: Sales Overview
+
 Objective:
 To provide a high-level summary of overall business performance through key metrics, time-based sales trends, and regional/segment breakdowns.
 
